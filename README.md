@@ -1,1 +1,1 @@
-# Resources related to Enterprise Security Architecture
+# Enterprise Security Architecture - resources
