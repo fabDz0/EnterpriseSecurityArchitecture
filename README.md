@@ -9,7 +9,7 @@
 ## Reference architectures 
 Reference architectures are a great place to start understanding how architectures are built. Most vendor publish reference architecture for their product. Few resources are listed below. A good resource to practise
 - [Azure Reference Architecture](https://learn.microsoft.com/en-us/azure/architecture/browse/)
-- [AWS Reference Architecture] (https://aws.amazon.com/architecture/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all&awsf.tech-category=*all&awsf.industries=*all&awsf.business-category=*all)
+- [AWS Reference Architecture](https://aws.amazon.com/architecture/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all&awsf.tech-category=*all&awsf.industries=*all&awsf.business-category=*all)
 
 
 
